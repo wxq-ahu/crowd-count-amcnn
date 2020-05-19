@@ -14,11 +14,13 @@ clone this repository
 <table><tr><td bgcolor=DarkGray><font color=red>git clone https://github.com/wxq-ahu/crowd-count-amcnn.git</font></td></tr></table>
 
 # Citation
-If you use any part of this code in your research, please cite our paper:  
-@article{zhu2020attentive,  
->title={Attentive Multi-stage Convolutional Neural Network for Crowd Counting},  
->author={Zhu, Ming and Wang, Xuqing and Tang, Jun and Wang, Nian and Qu, Lei},  
->journal={Pattern Recognition Letters},  
->year={2020},  
->publisher={Elsevier}
+If you use any part of this code in your research, please cite our paper: 
+
+
+  @article{zhu2020attentive,  
+    title={Attentive Multi-stage Convolutional Neural Network for Crowd Counting},  
+    author={Zhu, Ming and Wang, Xuqing and Tang, Jun and Wang, Nian and Qu, Lei},  
+    journal={Pattern Recognition Letters},  
+    year={2020},  
+    publisher={Elsevier}  
 }
