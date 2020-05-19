@@ -13,15 +13,20 @@ We strongly recommend Anaconda as the environment
 Clone this repository  
 <table><tr><td bgcolor=DarkGray><font color=red>git clone https://github.com/wxq-ahu/crowd-count-amcnn.git</font></td></tr></table>
 
+# DataSets
+1. ShanghaiTech part_A and part_B
+2. UCF_CC_50
+3. MALL
+
 # Citation
 If you find the AMCNN useful, please cite our paper. Thank you!
 
-'''
- @article{zhu2020attentive,
-    title={Attentive Multi-stage Convolutional Neural Network for Crowd Counting},
-    author={Zhu, Ming and Wang, Xuqing and Tang, Jun and Wang, Nian and Qu, Lei},
-    journal={Pattern Recognition Letters},
-    year={2020},
-    publisher={Elsevier}
+```
+@article{zhu2020attentive,
+  title={Attentive Multi-stage Convolutional Neural Network for Crowd Counting},
+  author={Zhu, Ming and Wang, Xuqing and Tang, Jun and Wang, Nian and Qu, Lei},
+  journal={Pattern Recognition Letters},
+  year={2020},
+  publisher={Elsevier}
 }
-'''
+```
