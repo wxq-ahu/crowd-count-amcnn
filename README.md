@@ -15,11 +15,10 @@ clone this repository
 
 # Citation
 If you use any part of this code in your research, please cite our paper:
-
 @article{zhu2020attentive,  
->>title={Attentive Multi-stage Convolutional Neural Network for Crowd Counting},  
->>author={Zhu, Ming and Wang, Xuqing and Tang, Jun and Wang, Nian and Qu, Lei},  
->>journal={Pattern Recognition Letters},  
->>year={2020},  
->>publisher={Elsevier}  
+>title={Attentive Multi-stage Convolutional Neural Network for Crowd Counting},  
+>author={Zhu, Ming and Wang, Xuqing and Tang, Jun and Wang, Nian and Qu, Lei},  
+>journal={Pattern Recognition Letters},  
+>year={2020},  
+>publisher={Elsevier}
 }
