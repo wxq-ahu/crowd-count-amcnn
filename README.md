@@ -10,7 +10,7 @@ We strongly recommend Anaconda as the environment
 2. opencv 3.4.1
 3. python 3.6+  
 
-clone this repository  
+Clone this repository  
 <table><tr><td bgcolor=DarkGray><font color=red>git clone https://github.com/wxq-ahu/crowd-count-amcnn.git</font></td></tr></table>
 
 # Citation
