@@ -16,10 +16,12 @@ Clone this repository
 # Citation
 If you find the AMCNN useful, please cite our paper. Thank you!
 
- @article{zhu2020attentive,  
-    title={Attentive Multi-stage Convolutional Neural Network for Crowd Counting},  
-    author={Zhu, Ming and Wang, Xuqing and Tang, Jun and Wang, Nian and Qu, Lei},  
-    journal={Pattern Recognition Letters},  
-    year={2020},  
-    publisher={Elsevier}  
+'''
+ @article{zhu2020attentive,
+    title={Attentive Multi-stage Convolutional Neural Network for Crowd Counting},
+    author={Zhu, Ming and Wang, Xuqing and Tang, Jun and Wang, Nian and Qu, Lei},
+    journal={Pattern Recognition Letters},
+    year={2020},
+    publisher={Elsevier}
 }
+'''
