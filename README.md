@@ -11,7 +11,9 @@ We strongly recommend Anaconda as the environment
 3. python 3.6+  
 
 Clone this repository  
-<table><tr><td bgcolor=DarkGray><font color=red>git clone https://github.com/wxq-ahu/crowd-count-amcnn.git</font></td></tr></table>
+```
+git clone https://github.com/wxq-ahu/crowd-count-amcnn.git
+```
 
 # Datasets
 1. ShanghaiTech part_A and part_B
