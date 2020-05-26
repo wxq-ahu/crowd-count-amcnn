@@ -1,7 +1,7 @@
 # crowd-count-amcnn
 This is the official implementation of PRL 2020 paper ["Attentive Multi-stage Convolutional Neural Network for Crowd Counting"](https://www.sciencedirect.com/science/article/pii/S0167865520301793)
 
-<img src="https://github.com/wxq-ahu/crowd-count-amcnn/tree/master/image/AMCNN.jpg" width="10%" hight="10%">  
+![](https://github.com/wxq-ahu/crowd-count-amcnn/tree/master/image/AMCNN.jpg)  
 
 
 # Prerequisites  
